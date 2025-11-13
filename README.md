@@ -24,6 +24,40 @@ I wrote a program that auto-generated descriptive statistics for all of the nume
 
 6.
 I made a correlation matrix for every numerical variable.
+Time has a medium spread centered around 1226.0
+
+
+
+
+
+
+
+Released Year has a small spread centered around 1993.0
+
+
+
+
+
+
+
+Age has a small spread centered around 28.0
+
+
+
+
+
+
+
+Number Of Runs has a large spread centered around 7.0
+
+
+Tas Time has a medium spread centered around 1002.005
+
+
+Time Difference has a medium spread centered around 163.72000000000003
+
+
+Percent Of Difference has a medium spread centered around 13.0697674418605
 
 
 ![Alt text](Screen%20Shot%202025-11-12%20at%2011.44.59%20PM.png)
