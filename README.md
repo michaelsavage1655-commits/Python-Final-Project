@@ -27,6 +27,8 @@ I made a correlation matrix for every numerical variable.
 
 
 ![Alt text](Screen%20Shot%202025-11-12%20at%2011.44.59%20PM.png)
+![Alt text](Untitled%20document%20(1).pdf)
+
 
 
 
