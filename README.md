@@ -26,6 +26,8 @@ I wrote a program that auto-generated descriptive statistics for all of the nume
 I made a correlation matrix for every numerical variable.
 
 
+![Alt text](Screen%20Shot%202025-11-12%20at%2011.44.59%20PM.png)
+
 
 
 
