@@ -6,6 +6,9 @@ Steps I took:
 I found a dataset on Kaggle about TAS (tool assisted) speedruns that I found intersting.
 Here's the link:
 https://www.kaggle.com/datasets/cmmm976/video-game-speedrun-and-tas-world-record-times
+Here are some questions I had about the dataset:
+ How do the different varables correlate?
+ What's the standard deviation for time and other variables?
 
 2.
 I made sure there wre no missing vaues, outliers, duplicates or incorrect datatypes.
